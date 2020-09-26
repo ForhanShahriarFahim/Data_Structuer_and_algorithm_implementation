@@ -1,4 +1,4 @@
-package Fahim;
+package SingleLinkedList;
 
 public class LinkedList {
     Node head;
